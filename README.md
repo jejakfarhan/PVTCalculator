@@ -132,7 +132,7 @@ python -m pip install Pillow requests
 From the repository directory, run:
 
 ```bash
-python "PVT Calculator_Kelompok 3.py"
+python "PVT Calculator.py"
 ```
 
 The application opens a desktop window. Enter the reservoir and fluid data, select the desired correlations, and click **Hitung PVT**. Use the **Tabel PVT** and **Grafik PVT** tabs to inspect the outputs. Click **Export ke Excel (.xlsx)** to save the workbook.
